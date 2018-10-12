@@ -44,4 +44,6 @@ function removeElementFromEndOfArray(array) {
   return array
 }
 
-
+function removeElementFromEndOfArray(array) {
+  
+}
